@@ -35,6 +35,7 @@
 ## Education
 
 - Present - Nov 2023: Sistems Engineer - UNAD University
+- Present - May 2023: Azure Architect Expert - Microsoft
 - 2022: Azure Fundamentals - Microsoft
 - 2021: Java University - Global Mentoring.inc | Undemy Business
 - 2021: SQL - Packt Publishing | Udemy Business
