@@ -1,6 +1,6 @@
 ## Nov 2021 - Present
 #### NTT DATA - Software Engineer
-- Functions: Document, develop and sustain backend azure architecture
+- Functions: Document, develop and support a backend REST based on an Azure Kubernetes Services Environment
 - Project: Provenir mobile app (+100K users)
 - Methodology: Scrum
 - Technologies: Java 11, SpringBoot, Azure Kubernetes Service (AKS), Oracle SQL, CosmosDB, Retrofit
