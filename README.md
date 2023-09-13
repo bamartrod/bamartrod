@@ -21,20 +21,22 @@
 
 ## Skills resume
 
-- Backend: Java and Node.js (JS & TS)
-- Databases: SQL and CosmosDB
-- Frontend: Angular
-- Coding: Data Structures, SOLID principles, Design patterns and Algorithm complexity
-- DevOps: Sonarqube, Jenkins, Docker, Kubernetes
+- Backend: Java Spring Boot
+- Databases: SQL (Oracle) and NoSQL (MongoDB)
+- Coding: Data Structures, SOLID principles, Design patterns, and Algorithm complexity
+- Good Practices: Java docs, Swagger, TDD HU requirements-based, SonarQube
+- DevOps: Docker, Kubernetes, Git & (Github | Gitlab)
 
 ## Now Learning
 
-- Cloud: AZ-305 Azure Architect Expert
-- Coding: Advanced Data Structures & Algorithm Codechef (Competitive programming)
+- Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
+- Coding: Advanced Data Structures & Algorithm (CodeChef)
 
 ## Education
 
 - Present - Nov 2023: Sistems Engineer - UNAD University
+- 2023: Azure Solutions Architech Expert - Udemy Business
+- 2023: Effective and Assertive Comunication - Udemy Business
 - 2022: Azure Fundamentals - Microsoft
 - 2021: Java University - Global Mentoring.inc | Undemy Business
 - 2021: SQL - Packt Publishing | Udemy Business
