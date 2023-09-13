@@ -1,23 +1,23 @@
 ## Nov 2021 - Present
 #### NTT DATA - Software Engineer
-- Functions: Document, develop and support a Java REST Backend based on an Azure Kubernetes Services Environment
-- Project: Provenir mobile app (+100K users)
+- Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services with Scrum methodology
+- Project: Porvenir mobile +500k users app (iOS + Android)
 - Methodology: Scrum
-- Technologies: Java 11, SpringBoot, Azure Kubernetes Service (AKS), Oracle SQL, CosmosDB, Retrofit
+- Technologies: Java SpringBoot, Azure Kubernetes, Cosmos DB, retrofit
 
 ## May 2021 - Nov 2021
 #### Indra - Software Engineer
-- Functions: Backend bug supports
-- Project: TIGOUNE biller change for mobile network services
+- Functions: Backend bug support
+- Project: TIGOUNE biller change for +15 million users mobile network services
 - Methodology: Scrum
-- Technologies: Java 8 (EE) and Oracle SQL
+- Technologies: Java EE and Oracle SQL Developer
 
 ## 2019 - May 2021
 #### CORPMAD - Software Development Engineer
 - Functions: Administrative software development
-- Project: Women in digital transformation
+- Project: Digital Empowerment of Single Mothers
 - Methodology: Waterfall
-- Technologies: Java 8, SpringBoot, Angular, Axios and MySQL
+- Technologies: Java desktop & microservices development with MySQL databases
 
 ## Skills resume
 
@@ -30,7 +30,7 @@
 ## Now Learning
 
 - Cloud: AZ-305 Azure Architect Expert
-- Coding: Advanced DSA Codechef (Competitive programming)
+- Coding: Advanced Data Structures & Algorithm Codechef (Competitive programming)
 
 ## Education
 
