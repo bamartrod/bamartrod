@@ -1,5 +1,5 @@
 ## About me
-I am a person who is committed to the company, dedicated to pursuing product quality, fostering a positive team atmosphere, and never ceasing to learn. I am focused on computer science and software development with the appropriate and high-quality structure and optimization, the motto that best defines me is: Learning and assertive communication are the engineer's best tools.
+I am a person who is committed to the company, dedicated to pursuing product quality, fostering a positive team atmosphere, and never ceasing to learn. I am focused on computer science and software development with the appropriate and high-quality structure and optimization, the motto that best defines me is: "Continous learning, efficient team-work and assertive communication are the best engineering tools".
 
 ## Nov 2021 - Present
 #### NTT DATA - Software Engineer
