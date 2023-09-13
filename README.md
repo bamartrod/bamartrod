@@ -1,3 +1,6 @@
+## About me
+I am a person who is committed to the company, dedicated to pursuing product quality, fostering a positive team atmosphere, and never ceasing to learn. I am focused on computer science and software development with the appropriate and high-quality structure and optimization
+
 ## Nov 2021 - Present
 #### NTT DATA - Software Engineer
 - Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services
