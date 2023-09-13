@@ -1,6 +1,6 @@
 ## Nov 2021 - Present
 #### NTT DATA - Software Engineer
-- Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services with Scrum methodology
+- Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services
 - Project: Porvenir mobile +500k users app (iOS + Android)
 - Methodology: Scrum
 - Technologies: Java SpringBoot, Azure Kubernetes, Cosmos DB, retrofit
