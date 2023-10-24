@@ -10,7 +10,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
   - Methodology: Scrum
   - Technologies: Java SpringBoot, Azure Kubernetes, Oracle SQL
 
-- Sept 2023 - Oct 2023
+- Sept 2023 - Oct 2023 (vacation replacement)
   - Project: Legacy infrastructure update core backend Banco popular +500K Customers
   - Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services
   - Methodology: Scrum
