@@ -20,7 +20,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
   - Project : Porvenir mobile +700k users app (iOS + Android)
   - Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services
   - Methodology: Scrum
-  - Technologies: Java SpringBoot, Azure Kubernetes, Cosmos DB, retrofit
+  - Technologies: Java SpringBoot, Azure Kubernetes, Cosmos DB
 
 ## May 2021 - Nov 2021
 #### Indra - Software Engineer
