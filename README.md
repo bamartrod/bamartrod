@@ -29,21 +29,21 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 
 ## Skills resume
 
-- Backend: Java Spring Boot
+- Backend: Java Spring
 - Databases: SQL (Oracle) and NoSQL (MongoDB)
-- Coding: Data Structures, SOLID principles, Design patterns, and Algorithm complexity
-- Good Practices: Java docs, Swagger, TDD HU requirements-based, SonarQube
-- DevOps: Docker, Kubernetes, Git & (Github | Gitlab)
+- Coding: Data Structures, SOLID principles, Design patterns, Hexagonal architecture and Algorithm complexity
+- Good Practices: Java docs, Swagger, Test Driven Development, SonarQube
+- DevOps: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
 
 ## Now Learning
 
 - Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
-- Coding: Advanced Data Structures & Algorithm (CodeChef)
+- Coding: Advanced Data Structures & Algorithms (CodeChef)
 
 ## Education
 
 - Present - Nov 2023: Sistems Engineer - UNAD University
-- 2023: Azure Solutions Architech Expert - Udemy Business
+- 2023: AZ-305 Azure Solutions Architech Expert - Udemy Business
 - 2023: Effective and Assertive Comunication - Udemy Business
 - 2022: Azure Fundamentals - Microsoft
 - 2021: Java University - Global Mentoring.inc | Undemy Business
