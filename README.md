@@ -29,11 +29,11 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 
 ## Skills resume
 
-- Backend: Java Spring
+- Backend: Java Spring Framework
 - Databases: SQL (Oracle) and NoSQL (MongoDB)
-- Coding: Data Structures, SOLID principles, Design patterns, Hexagonal architecture and Algorithm complexity
+- Architecture: Data Structures, SOLID principles, Design patterns, Hexagonal architecture and Algorithm complexity
 - Good Practices: Java docs, Swagger, Test Driven Development, SonarQube
-- DevOps: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
+- DevOps Tools: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
 
 ## Now Learning
 
