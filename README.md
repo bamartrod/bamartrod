@@ -4,23 +4,14 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 ## Nov 2021 - Present
 #### NTT DATA - Software Engineer
 
-- Oct 2023 - Now
-  - Project: Scotiabank
-  - Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services
-  - Methodology: Scrum
-  - Technologies: Java SpringBoot, Azure Kubernetes, Oracle SQL
-
-- Sept 2023 - Oct 2023 (vacation replacement)
-  - Project: Legacy infrastructure update core backend Banco popular +500K Customers
-  - Functions: Document and support a Java microservices environment on Azure Kubernetes Services
-  - Methodology: Scrum
-  - Technologies: Java SpringBoot, Azure Kubernetes, Oracle SQL
-    
-- Nov 2022 - Sept 2023
-  - Project : Porvenir mobile +700k users app (iOS + Android)
-  - Functions: Document, support and develop a Java microservices environment on Azure Kubernetes Services
-  - Methodology: Scrum
-  - Technologies: Java SpringBoot, Azure Kubernetes, Cosmos DB
+- Projects:
+  - Bogota's bank backend update (+19M Colombian users)
+  - Scotiabank Colombia's backend middleware update (+11M Colombian users)
+  - Banco Popular backend update (+5M Colombian users)
+  - Porvenir Mobile App backend middleware (+500K Colombian android & iOS users)
+- Methodology: Scrum
+- Functions: Document, support and develop a Java microservices projects
+- Technologies: Java SpringBoot, Spring Feign Client, Data and Security, MongoDB and Oracle SQL databases
 
 ## May 2021 - Nov 2021
 #### Indra - Software Engineer
