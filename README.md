@@ -20,7 +20,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 - Methodology: Scrum
 - Technologies: Java EE and Oracle SQL Developer
 
-### 2019 - May 2021: CORPMAD (Software Development Engineer)
+### 2019 - May 2021: CORPMAD (Software Developer)
 - Functions: Administrative software development
 - Project: Digital Empowerment of Single Mothers
 - Methodology: Waterfall
