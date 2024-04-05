@@ -1,7 +1,8 @@
 ## About me
 I am a person who is committed to the company, dedicated to pursuing product quality, fostering a positive team atmosphere, and never ceasing to learn. I am focused on computer science and software development with the appropriate and high-quality structure and optimization.
 
-## Nov 2021 - Present
+## Experience
+### Nov 2021 - Present
 #### NTT DATA - Software Engineer
 
 - Projects (+40 microservices developed):
@@ -15,14 +16,14 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 - Functions: Document, support and develop Java microservices projects
 - Technologies: Java SpringBoot, Spring Feign Client, Spring Data and Spring Security, MongoDB, and Oracle SQL databases
 
-## May 2021 - Nov 2021
+### May 2021 - Nov 2021
 #### Indra - Software Engineer
 - Functions: Backend bug support
 - Project: TIGOUNE biller change for +15 million users mobile network services
 - Methodology: Scrum
 - Technologies: Java EE and Oracle SQL Developer
 
-## 2019 - May 2021
+### 2019 - May 2021
 #### CORPMAD - Software Development Engineer
 - Functions: Administrative software development
 - Project: Digital Empowerment of Single Mothers
