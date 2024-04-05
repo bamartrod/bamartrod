@@ -5,9 +5,9 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 #### NTT DATA - Software Engineer
 
 - Projects (+40 microservices developed):
+  - Scotiabank Colombia's backend bank collections (+11M Colombian users)
   - Bogota's bank backend update (+19M Colombian users)
   - Scotiabank Colombia's backend middleware update (+11M Colombian users)
-  - Scotiabank Colombia's backend bank collections (+11M Colombian users)
   - Banco Popular backend update (+5M Colombian users)
   - Porvenir Mobile App backend middleware (+12M Colombian users)
   
