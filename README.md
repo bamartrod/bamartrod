@@ -12,7 +12,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
   - Porvenir Mobile App backend middleware development (+12M Colombian users)
   
 - Methodology: Scrum
-- Functions: Document, support and develop a Java microservices projects
+- Functions: Document, support and develop Java microservices projects
 - Technologies: Java SpringBoot, Spring Feign Client, Spring Data and Spring Security, MongoDB and Oracle SQL databases
 
 ## May 2021 - Nov 2021
