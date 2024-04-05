@@ -13,7 +13,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
   
 - Methodology: Scrum
 - Functions: Document, support and develop Java microservices projects
-- Technologies: Java SpringBoot, Spring Feign Client, Spring Data and Spring Security, MongoDB and Oracle SQL databases
+- Technologies: Java SpringBoot, Spring Feign Client, Spring Data and Spring Security, MongoDB, and Oracle SQL databases
 
 ## May 2021 - Nov 2021
 #### Indra - Software Engineer
@@ -44,10 +44,10 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 
 ## Education
 
-- Present - Nov 2023: Sistems Engineer - UNAD University
+- Present - Nov 2023: Systems Engineer - UNAD University
 - 2024: English B2 Test certified - EF International Language Center
-- 2023: AZ-305 Azure Solutions Architech Expert - Udemy Business
-- 2023: Effective and Assertive Comunication - Udemy Business
+- 2023: AZ-305 Azure Solutions Architect Expert - Udemy Business
+- 2023: Effective and Assertive Communication - Udemy Business
 - 2022: Azure Fundamentals - Microsoft
 - 2021: Java University - Global Mentoring.inc | Undemy Business
 - 2021: SQL - Packt Publishing | Udemy Business
