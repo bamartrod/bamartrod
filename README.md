@@ -5,7 +5,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 #### NTT DATA - Software Engineer
 
 - Projects (+40 microservices developed):
-  - Scotiabank's backend bank collections development (+11M Colombian users)
+  - Scotiabank's backend development for bank collections (+11M Colombian users)
   - Bogota's bank backend migration (+19M Colombian users)
   - Scotiabank's backend middleware migration (+11M Colombian users)
   - Banco Popular backend lambda development (+5M Colombian users)
@@ -13,7 +13,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
   
 - Methodology: Scrum
 - Functions: Document, support and develop a Java microservices projects
-- Technologies: Java SpringBoot, Spring Feign Client, Data and Security, MongoDB and Oracle SQL databases
+- Technologies: Java SpringBoot, Spring Feign Client, Spring Data and Spring Security, MongoDB and Oracle SQL databases
 
 ## May 2021 - Nov 2021
 #### Indra - Software Engineer
