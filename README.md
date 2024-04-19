@@ -14,7 +14,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 - Functions: Document, support and develop Java microservices projects
 - Technologies: Java SpringBoot, Spring Feign Client, Spring Data and Spring Security, MongoDB, and Oracle SQL databases
 
-### May 2021 - Nov 202: Indra (Software Engineer)
+### May 2021 - Nov 2021: Indra (Software Engineer)
 - Functions: Backend bug support
 - Project: TIGOUNE biller change for +15 million users mobile network services
 - Methodology: Scrum
