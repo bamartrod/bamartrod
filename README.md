@@ -34,11 +34,6 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 - Good Practices: Java docs, Swagger, Test Driven Development, SonarQube
 - DevOps Tools: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
 
-## Now Learning
-
-- Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
-- Coding: Advanced Data Structures & Algorithms (CodeChef)
-
 ## Education
 
 - 2017 - Present: Systems Engineer - UNAD University
@@ -48,3 +43,9 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 - 2022: Azure Fundamentals - Microsoft
 - 2021: Java University - Global Mentoring.inc | Undemy Business
 - 2021: SQL - Packt Publishing | Udemy Business
+
+## Now Learning
+
+- Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
+- Coding: Advanced Data Structures & Algorithms (CodeChef)
+
