@@ -41,7 +41,7 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 
 ## Education
 
-- Present - Nov 2023: Systems Engineer - UNAD University
+- 2017 - Present: Systems Engineer - UNAD University
 - 2024: English B2 Test certified - EF International Language Center
 - 2023: AZ-305 Azure Solutions Architect Expert - Udemy Business
 - 2023: Effective and Assertive Communication - Udemy Business
