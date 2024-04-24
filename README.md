@@ -49,7 +49,7 @@ May 2021 - Nov 2021 ( Remote, Bogotá, Colombia ) ( IT Consulting services )
 
 ### English B2 certified at EF
 April 2024 ( Remote, Worldwide )
-The achieved English level is 58/100 on the EF SET score scale and B2 Upper Intermediate according to the Common European Framework of Reference (CEFR)
+- The achieved English level is 58/100 on the EF SET score scale and B2 Upper Intermediate according to the Common European Framework of Reference (CEFR)
 
 # Certifications
 - 2023: AZ-305 Azure Solutions Architect Expert - Udemy Business
