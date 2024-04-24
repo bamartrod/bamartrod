@@ -1,33 +1,39 @@
 ## About me
-I am a person who is committed to the company, dedicated to pursuing product quality, fostering a positive team atmosphere, and never ceasing to learn. I am focused on computer science and software development with the appropriate and high-quality structure and optimization.
++ 5 years experience as a software engineer building effective communication between clients and team members, encouraging quality-based and performance-mindset promoting Scrum good practices, and fostering collaboration with initiatives for performance improvement and reducing project dependencies.
 
-## Experience
-### Nov 2021 - Present: NTT DATA (Software Engineer)
-- Projects (+40 microservices developed):
-  - Scotiabank's backend development for bank collections (+11M Colombian users)
-  - Bogota's bank backend migration (+19M Colombian users)
-  - Scotiabank's backend middleware migration (+11M Colombian users)
-  - Banco Popular backend lambda development (+5M Colombian users)
-  - Porvenir Mobile App backend middleware development (+12M Colombian users)
-  
-- Methodology: Scrum
-- Functions: Document, support and develop Java microservices projects
-- Technologies: Java SpringBoot, Spring Feign Client, Spring Data and Spring Security, MongoDB, and Oracle SQL databases
+## Most recent work experience
+### Software Engineer at NTT DATA
+November 2021 - Present ( Remote, Bogotá, Colombia ) ( IT Consulting services )
 
-### May 2021 - Nov 2021: Indra (Software Engineer)
-- Functions: Backend bug support
-- Project: TIGOUNE biller change for +15 million users mobile network services
-- Methodology: Scrum
-- Technologies: Java EE and Oracle SQL Developer
+Responsibilities:
+- Coach and mentor the team's quality-based mindset and Kubernetes usage
+- Identify and prioritize engineering initiatives to improve performance bottlenecks, and reduce dependencies.
+- Promote good practices in Scrum methodology, enhancing team performance and fostering mutual work-team collaboration.
+- Effective communication while closely collaborating with team members and clients to objectively analyze their requirements, identify potential issues considering the current project architecture, and make informed decisions to formulate viable solutions.
+- Develop Java Spring microservices for backend core features or middleware architecture with database communications (OracleSQL & MongoDB) and HTTP consumption to other services (REST & SOAP).
 
-### 2019 - May 2021: CORPMAD (Software Developer)
-- Functions: Administrative software development
-- Project: Digital Empowerment of Single Mothers
-- Methodology: Waterfall
-- Technologies: Java desktop & microservices development with MySQL databases
+Key accomplishments
+- Promotion of openapiGenerate technology to encourage API-first development. This initiative aimed to keep the team equipped with detailed and updated documentation.
+- Encourage the creation of Test-Driven Development (TDD) using MVCTest, MockWebServer, and H2 enabling team members to develop with confidence in prior functionality and obviating the need for a comprehensive pre- and post-development legacy functional testing plan.
+- Increase the development team's performance by promoting pair programming sessions to collectively address issues hindering progress and document solutions.
+
+### Software Engineer at Indra
+May 2021 - Nov 2021 ( Remote, Bogotá, Colombia ) ( IT Consulting services )
+
+Responsibilities
+- Intermediary between team members for managing dependencies with the client, maintaining assertive communication to prioritize value delivery, and optimizing team performance.
+- Mobile network backend support built in Jakarta EE and Oracle SQL
+Key accomplishments
+- Multiple sprint stars for collaborative work with the QA and DevOps team for interaction with Oracle WebLogic deployment technologies.
+
+### Software Developer at CORPMAD
+Responsibilities
+- Administrative software development with Angular, Java Spring & MySQL
+Key accomplishments
+- +100 single mothers coached to start a digital transition of their entrepreneurship
 
 ## Skills resume
-
+- Soft skills: Learn mindset and high adaptability, coaching and mentoring, strategic planning and abstract thinking
 - Backend: Java Spring Framework
 - Databases: SQL (Oracle) and NoSQL (MongoDB)
 - Architecture: Data Structures, SOLID principles, Design patterns, Hexagonal architecture and Algorithm complexity
@@ -35,9 +41,10 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 - DevOps Tools: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
 
 ## Education
-
 - 2017 - Present: Systems Engineer - UNAD University
 - 2024: English B2 Test certified - EF International Language Center
+
+## Certifications
 - 2023: AZ-305 Azure Solutions Architect Expert - Udemy Business
 - 2023: Effective and Assertive Communication - Udemy Business
 - 2022: Azure Fundamentals - Microsoft
@@ -45,7 +52,5 @@ I am a person who is committed to the company, dedicated to pursuing product qua
 - 2021: SQL - Packt Publishing | Udemy Business
 
 ## Now Learning
-
 - Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
 - Coding: Advanced Data Structures & Algorithms (CodeChef)
-
