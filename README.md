@@ -40,16 +40,25 @@ May 2021 - Nov 2021 ( Remote, Bogotá, Colombia ) ( IT Consulting services )
 - DevOps Tools: Docker, Kubernetes, Git & ( Github | Gitlab | Bitbucket )
 
 # Education
-- 2017 - Present: Systems Engineer - UNAD University
-- 2024: English B2 Test certified - EF International Language Center
+## Systems Engineering at UNAD University
+2017 - 2025 ( Remote, Colombia )
+
+- Progress: 90% (133/149 approved credits)
+- Grades average: 4.2/5.0
+- Studying: 11 credits
+
+## English B2 certified at EF
+April 2024 ( Remote, Worldwide )
+The achieved English level is 58/100 on the EF SET score scale and B2 Upper Intermediate according to the Common European Framework of Reference (CEFR)
 
 # Certifications
 - 2023: AZ-305 Azure Solutions Architect Expert - Udemy Business
 - 2023: Effective and Assertive Communication - Udemy Business
 - 2022: Azure Fundamentals - Microsoft
-- 2021: Java University - Global Mentoring.inc | Undemy Business
-- 2021: SQL - Packt Publishing | Udemy Business
+- 2021: Java University - Undemy Business
+- 2021: SQL - Udemy Business
 
 # Now Learning
+- Language: English at EF
 - Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
 - Coding: Advanced Data Structures & Algorithms (CodeChef)
