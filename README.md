@@ -1,5 +1,5 @@
 ## About me
-+ 5 years experience as a software engineer building effective communication between clients and team members, encouraging quality-based and performance-mindset promoting Scrum good practices, and fostering collaboration with initiatives for performance improvement and reducing project dependencies.
++5 years experience as a software engineer building effective communication between clients and team members, encouraging quality-based and performance-mindset promoting Scrum good practices, and fostering collaboration with initiatives for performance improvement and reducing project dependencies.
 
 ## Most recent work experience
 ### Software Engineer at NTT DATA
