@@ -30,6 +30,7 @@ May 2021 - Nov 2021 ( Remote, Bogotá, Colombia ) ( IT Consulting services )
 - Administrative software development with Angular, Java Spring & MySQL
 ### Key accomplishments
 - +100 single mothers coached to start a digital transition of their entrepreneurship
+- talks to single mothers about basic computing skills
 
 # Skills resume
 - Soft skills: Learn mindset and high adaptability, coaching and mentoring, strategic planning and abstract thinking
