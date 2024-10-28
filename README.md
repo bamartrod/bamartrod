@@ -12,57 +12,15 @@ Throughout my roles, I have not only been a technical contributor but also a key
 - Banco Popular (NTT DATA Client) - BFF Development for mobile application: Microservice development to deliver facial recognition system files for advanced cloud-based biometric security solutions.
 - Porvenir (NTT DATA Client) - BFF Development for mobile application: Developed microservices with Java Spring Boot, managing financial operations like contributions and investments. Delivered secure API integrations, aligned with the client's technical and business needs.
 
-# Most recent work experience
-## Software Engineer at NTT DATA
-November 2021 - Present: IT Consulting services - Remote
-
-### Responsibilities:
-- Developed backend services for high-impact banking applications using Java Spring Boot and integrated them with core financial systems (REST/XML, SOAP).
-- Collaborated with clients, including Scotiabank Colpatria and Banco de Bogotá, to align technical requirements with business objectives.
-- Created and documented microservices with Swagger, Postman, and Confluence.
-- Managed development and QA environments deployed on Azure Kubernetes using Docker.
-
-### Key accomplishments
-- Led the integration of a high-volume payment system for Scotiabank Colpatria, improving transaction processing times.
-- Successfully built AWS Lambda-based microservices for Banco de Occidente, supporting core banking functions with enhanced security measures.
-- By introducing API-first development and utilizing the OpenAPI Generator library, I helped my team improve their understanding of development requirements and drastically reduce development time.
-
-## Software Engineer at Indra
-May 2021 - Nov 2021:  IT Consulting services - Remote
-
-### Responsibilities
-- Provided support and debugging for Java applications using Jakarta and OracleSQL for TIGOUNE.
-- Coordinated the deployment of systems across environments and handled configurations for testing with SSH and Oracle systems.
-
-### Key accomplishments
-- Improved incident resolution time by 30% through proactive documentation and efficient bug-fixing strategies.
-- Played a critical role in maintaining system uptime, ensuring seamless operations for the client.
-
-## Volunteer Developer at CORPMAD
-Jan 2019 - May 2021: Non-profit humanitarian organization
-
-### Responsibilities
-- Designed and built the administrative software for resource management and event planning for a humanitarian organization supporting single mothers.
-- Provided training sessions on basic computing and digital entrepreneurship.
-
-### Key accomplishments
-- Successfully delivered a fully functional management platform that streamlined resource allocation and benefit distribution for the corporation.
-
-# Key Technologies:
-- Programming languages: Java
-- Frameworks: Spring
+# Skills
+### Technical:
+- Backend development: Java & Spring Framework (Spring Boot)
+- HTTP Handling: REST, JSON, XML, SOAP
 - Database System: SQL (MySQL, OracleSQL), NoSQL (MongoDB)
 - Dev tools: Git (Github, Bitbucket & Gitlab), Documentation diagrams (Sequence, Flow & Classes)
 - DevOps Tools: Docker, Kubernetes, SonarQube, Fortify, Jenkins
 - Testing & Documentation: JUnit, MockWebServer, H2, Swagger, Postman, WSDL
 - Cloud Platforms: Azure (Kubernetes & API Management) & Serverless development
-
-# Skills
-### Technical:
-- Backend development with Java & Spring Boot
-- Microservices architecture (REST, SOAP, XML, JSON)
-- Database design & management
-- System Security (Authentication, Authorization, Cryptography, JWT…)
 
 ### Development practices
 - Test-driven development
@@ -75,24 +33,3 @@ Jan 2019 - May 2021: Non-profit humanitarian organization
 - Effective team collaboration & knowledge sharing
 - Problem-solving & critical thinking
 - Adaptability & continuous learning
-
-# Education
-### Systems Engineering at UNAD University
-2017 - 2025 ( Remote, Colombia )
-- All requirements are done (pending graduation)
-
-### English B2 certified at EF
-April 2024 ( Remote, Worldwide )
-- The achieved English level is 58/100 on the EF SET score scale and B2 Upper Intermediate according to the Common European Framework of Reference (CEFR)
-
-### Certifications
-- 2023: AZ-305 Azure Solutions Architect Expert - Udemy Business
-- 2023: Effective and Assertive Communication - Udemy Business
-- 2022: Azure Fundamentals - Microsoft
-- 2021: Java University - Undemy Business
-- 2021: SQL - Udemy Business
-
-### Now Learning
-- Language: English at EF
-- Cloud: AZ-305 Azure Solutions Architect Expert (Microsoft)
-- Coding: Advanced Data Structures & Algorithms (CodeChef)
