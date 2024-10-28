@@ -12,7 +12,8 @@ Throughout my roles, I have not only been a technical contributor but also a key
 - Banco Popular (NTT DATA Client) - BFF Development for mobile application: Microservice development to deliver facial recognition system files for advanced cloud-based biometric security solutions.
 - Porvenir (NTT DATA Client) - BFF Development for mobile application: Developed microservices with Java Spring Boot, managing financial operations like contributions and investments. Delivered secure API integrations, aligned with the client's technical and business needs.
 
-## Software Engineer at NTT DATA (Most recent work experience)
+# Most recent work experience
+## Software Engineer at NTT DATA
 November 2021 - Present: IT Consulting services - Remote
 
 ### Responsibilities:
