@@ -1,8 +1,6 @@
 # About me
 Certified Bachelor's degree in Systems Engineering and nearly 4 years of professional experience as a software engineer, and 2 years of voluntary work as a developer, specializing in back-end development with Java and Spring, I excel at building reliable, scalable, and secure software solutions. 
 
-Core technologies: Java | Spring Framework | Spring Boot | Back-end | Microservices | Middleware | Databases | SQL | NoSQL, and ranked in the top 8% nationally in Software Design at the Professional Exam Performance Exam required by law
-
 My expertise in solving complex technical challenges is complemented by my ability to communicate effectively with clients and stakeholders, ensuring alignment between business needs and technical solutions. I am also deeply committed to continuous learning, always seeking to enhance my technical skills and expand my knowledge of best development practices. 
 
 Throughout my roles, I have been a technical contributor and a key player in aligning technical solutions with business goals. At NTT DATA, I worked closely with clients such as Scotiabank, Colpatria, and Banco de Bogotá, ensuring that our software solutions addressed their core business needs while enhancing system efficiency and security.
