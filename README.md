@@ -1,10 +1,17 @@
 # About me
-I am a passionate and committed Systems Engineer with 3 years of professional experience in software engineering and an additional 2 years of voluntary work. Specializing in backend development with Java and Spring, I excel at building reliable, scalable, and secure software solutions. My expertise in solving complex technical challenges is complemented by my ability to communicate effectively with clients and stakeholders, ensuring alignment between business needs and technical solutions. I am also deeply committed to continuous learning, always seeking to enhance my technical skills and expand my knowledge of best development practices.
+Certified Bachelor's degree in Systems Engineering and nearly 4 years of professional experience as a software engineer, and 2 years of voluntary work as a developer, specializing in back-end development with Java and Spring, I excel at building reliable, scalable, and secure software solutions. 
 
-### Business impact & Connection
-Throughout my roles, I have not only been a technical contributor but also a key player in aligning technical solutions with business goals. In NTT DATA, I worked closely with clients like Scotiabank Colpatria and Banco de Bogotá, ensuring that our software solutions addressed their core business needs while enhancing system efficiency and security. My role in leading payment system integration projects demonstrated my ability to optimize transaction processes, ultimately benefiting both the client and their customers. This blend of technical excellence and business acumen allows me to contribute to a company’s broader objectives effectively.
+Core technologies: Java | Spring Framework | Spring Boot | Back-end | Microservices | Middleware | Databases | SQL | NoSQL, and ranked in the top 8% nationally in Software Design at the Professional Exam Performance Exam required by law
+
+My expertise in solving complex technical challenges is complemented by my ability to communicate effectively with clients and stakeholders, ensuring alignment between business needs and technical solutions. I am also deeply committed to continuous learning, always seeking to enhance my technical skills and expand my knowledge of best development practices. 
+
+Throughout my roles, I have been a technical contributor and a key player in aligning technical solutions with business goals. At NTT DATA, I worked closely with clients such as Scotiabank, Colpatria, and Banco de Bogotá, ensuring that our software solutions addressed their core business needs while enhancing system efficiency and security.
 
 # Projects
+- Scotiabank Colpatria (NTT DATA client) - MURIC - Principal Backend Developer: I had the opportunity to contribute as a Java Batch Component Developer for Scotiabank Colpatria, building self-executable batch jobs deployed and orchestrated in Google Cloud Platform (GCP).
+This project was part of the implementation of the Módulo Único de Reporte de Información de la Cartera de Crédito (MURIC), a regulatory initiative from the Superintendencia Financiera de Colombia, aimed at strengthening credit portfolio reporting, reducing operational costs, and ensuring accurate and timely data delivery for regulatory compliance.
+
+My role focused on designing and developing Java-based automated processes to support large-scale data processing and reporting, ensuring efficiency, reliability, and compliance with financial regulatory standards.
 - Scotiabank Colpatria (NTT DATA Client) - Bre-B Federate Directory integrations: Microservice development to ensure secure transactions for interoperability of immediate low-value payment systems according to Colombia’s central bank requirements.
 - Scotiabank Colpatria (NTT DATA Client) - Credit card payments core: Microservice development to credit card payment systems. Worked closely with the client to ensure technical and business alignment, delivering secure and efficient services.
 - Banco de Occidente (NTT DATA Client) - Bizagi app integration: Created Azure Lambda functions to enable seamless communication between Bizagi and core banking systems. Enhanced data flow and optimized backend services.
