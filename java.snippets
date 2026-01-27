@@ -1,0 +1,497 @@
+# Custom Java and Spring Boot Snippets
+# Place this file in ~/.vim/UltiSnips/java.snippets
+
+# ============================================================================
+# SPRING BOOT SNIPPETS
+# ============================================================================
+
+snippet sbapp "Spring Boot Application Class"
+package ${1:com.example.demo};
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ${2:DemoApplication} {
+    public static void main(String[] args) {
+        SpringApplication.run($2.class, args);
+    }
+}
+$0
+endsnippet
+
+snippet sbcontroller "Spring Boot REST Controller"
+package ${1:com.example.demo.controller};
+
+import org.springframework.web.bind.annotation.*;
+import org.springframework.http.ResponseEntity;
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequestMapping("${2:/api/v1}")
+@RequiredArgsConstructor
+public class ${3:Demo}Controller {
+    
+    @GetMapping
+    public ResponseEntity<?> getAll() {
+        // TODO: implement
+        return ResponseEntity.ok().build();
+    }
+    
+    @GetMapping("/{id}")
+    public ResponseEntity<?> getById(@PathVariable ${4:Long} id) {
+        // TODO: implement
+        return ResponseEntity.ok().build();
+    }
+    
+    @PostMapping
+    public ResponseEntity<?> create(@RequestBody ${5:Object} request) {
+        // TODO: implement
+        return ResponseEntity.ok().build();
+    }
+    
+    @PutMapping("/{id}")
+    public ResponseEntity<?> update(@PathVariable $4 id, @RequestBody $5 request) {
+        // TODO: implement
+        return ResponseEntity.ok().build();
+    }
+    
+    @DeleteMapping("/{id}")
+    public ResponseEntity<?> delete(@PathVariable $4 id) {
+        // TODO: implement
+        return ResponseEntity.noContent().build();
+    }
+}
+$0
+endsnippet
+
+snippet sbservice "Spring Boot Service"
+package ${1:com.example.demo.service};
+
+import org.springframework.stereotype.Service;
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+
+@Service
+@RequiredArgsConstructor
+@Slf4j
+public class ${2:Demo}Service {
+    
+    public ${3:void} ${4:process}() {
+        log.info("Processing...");
+        // TODO: implement
+    }
+}
+$0
+endsnippet
+
+snippet sbrepo "Spring Boot Repository"
+package ${1:com.example.demo.repository};
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+import ${2:com.example.demo.entity.Entity};
+
+@Repository
+public interface ${3:Demo}Repository extends JpaRepository<$2, ${4:Long}> {
+    $0
+}
+endsnippet
+
+snippet sbentity "Spring Boot JPA Entity"
+package ${1:com.example.demo.entity};
+
+import lombok.*;
+import javax.persistence.*;
+import java.time.LocalDateTime;
+
+@Entity
+@Table(name = "${2:table_name}")
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class ${3:Demo}Entity {
+    
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private ${4:Long} id;
+    
+    @Column(nullable = false)
+    private ${5:String} name;
+    
+    @Column(name = "created_at")
+    private LocalDateTime createdAt;
+    
+    @Column(name = "updated_at")
+    private LocalDateTime updatedAt;
+    
+    @PrePersist
+    protected void onCreate() {
+        createdAt = LocalDateTime.now();
+    }
+    
+    @PreUpdate
+    protected void onUpdate() {
+        updatedAt = LocalDateTime.now();
+    }
+    $0
+}
+endsnippet
+
+snippet sbdto "Spring Boot DTO"
+package ${1:com.example.demo.dto};
+
+import lombok.*;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import javax.validation.constraints.*;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class ${2:Demo}DTO {
+    
+    @JsonProperty("${3:field_name}")
+    @NotNull(message = "${4:Field} cannot be null")
+    private ${5:String} $3;
+    $0
+}
+endsnippet
+
+snippet sbconfig "Spring Boot Configuration"
+package ${1:com.example.demo.config};
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Bean;
+
+@Configuration
+public class ${2:Demo}Config {
+    
+    @Bean
+    public ${3:Object} ${4:beanName}() {
+        return new $3();
+    }
+    $0
+}
+endsnippet
+
+snippet sbexception "Spring Boot Custom Exception"
+package ${1:com.example.demo.exception};
+
+public class ${2:Custom}Exception extends RuntimeException {
+    
+    public $2(String message) {
+        super(message);
+    }
+    
+    public $2(String message, Throwable cause) {
+        super(message, cause);
+    }
+}
+$0
+endsnippet
+
+snippet sbexhandler "Spring Boot Exception Handler"
+package ${1:com.example.demo.exception};
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+import lombok.extern.slf4j.Slf4j;
+
+@RestControllerAdvice
+@Slf4j
+public class GlobalExceptionHandler {
+    
+    @ExceptionHandler(${2:Exception}.class)
+    public ResponseEntity<ErrorResponse> handle$2($2 ex) {
+        log.error("Error occurred: {}", ex.getMessage(), ex);
+        
+        ErrorResponse error = ErrorResponse.builder()
+            .message(ex.getMessage())
+            .status(HttpStatus.${3:INTERNAL_SERVER_ERROR}.value())
+            .build();
+            
+        return ResponseEntity.status(HttpStatus.$3).body(error);
+    }
+}
+$0
+endsnippet
+
+# ============================================================================
+# MICROSERVICES PATTERNS
+# ============================================================================
+
+snippet sbresttemplate "RestTemplate Configuration"
+package ${1:com.example.demo.config};
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.client.RestTemplate;
+import org.springframework.boot.web.client.RestTemplateBuilder;
+import java.time.Duration;
+
+@Configuration
+public class RestTemplateConfig {
+    
+    @Bean
+    public RestTemplate restTemplate(RestTemplateBuilder builder) {
+        return builder
+            .setConnectTimeout(Duration.ofMillis(${2:3000}))
+            .setReadTimeout(Duration.ofMillis(${3:3000}))
+            .build();
+    }
+}
+$0
+endsnippet
+
+snippet sbwebclient "WebClient Configuration"
+package ${1:com.example.demo.config};
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.reactive.function.client.WebClient;
+
+@Configuration
+public class WebClientConfig {
+    
+    @Bean
+    public WebClient webClient(WebClient.Builder builder) {
+        return builder
+            .baseUrl("${2:http://localhost:8080}")
+            .build();
+    }
+}
+$0
+endsnippet
+
+snippet sbfeign "Feign Client"
+package ${1:com.example.demo.client};
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.*;
+
+@FeignClient(name = "${2:service-name}", url = "${3:http://localhost:8080}")
+public interface ${4:Demo}Client {
+    
+    @GetMapping("/${5:endpoint}")
+    ${6:Object} get${7:Data}();
+    
+    @PostMapping("/$5")
+    $6 create(@RequestBody $6 request);
+}
+$0
+endsnippet
+
+# ============================================================================
+# TESTING SNIPPETS
+# ============================================================================
+
+snippet sbtest "Spring Boot Test Class"
+package ${1:com.example.demo};
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.beans.factory.annotation.Autowired;
+import static org.junit.jupiter.api.Assertions.*;
+
+@SpringBootTest
+class ${2:Demo}Test {
+    
+    @Autowired
+    private ${3:Service} service;
+    
+    @Test
+    void ${4:testMethod}() {
+        // Given
+        ${5:// setup}
+        
+        // When
+        ${6:// execute}
+        
+        // Then
+        ${7:// assert}
+        $0
+    }
+}
+endsnippet
+
+snippet sbmocktest "Spring Boot MockMvc Test"
+package ${1:com.example.demo.controller};
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.http.MediaType;
+
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
+import static org.mockito.Mockito.*;
+
+@WebMvcTest(${2:Demo}Controller.class)
+class $2ControllerTest {
+    
+    @Autowired
+    private MockMvc mockMvc;
+    
+    @MockBean
+    private ${3:Service} service;
+    
+    @Test
+    void ${4:testEndpoint}() throws Exception {
+        // Given
+        ${5:// mock setup}
+        
+        // When & Then
+        mockMvc.perform(get("${6:/api/v1/endpoint}")
+                .contentType(MediaType.APPLICATION_JSON))
+                .andExpect(status().isOk());
+        $0
+    }
+}
+endsnippet
+
+# ============================================================================
+# COMMON JAVA PATTERNS
+# ============================================================================
+
+snippet logger "Logger field"
+private static final Logger log = LoggerFactory.getLogger(${1:ClassName}.class);
+$0
+endsnippet
+
+snippet trycatch "Try-Catch block"
+try {
+    ${1:// code}
+} catch (${2:Exception} e) {
+    ${3:log.error("Error: {}", e.getMessage(), e);}
+}
+$0
+endsnippet
+
+snippet ifnull "If null check"
+if (${1:object} == null) {
+    ${2:throw new IllegalArgumentException("$1 cannot be null");}
+}
+$0
+endsnippet
+
+snippet stream "Stream processing"
+${1:list}.stream()
+    .filter(${2:item} -> ${3:condition})
+    .map($2 -> ${4:transformation})
+    .collect(Collectors.toList());
+$0
+endsnippet
+
+snippet optional "Optional handling"
+Optional.ofNullable(${1:value})
+    .map(${2:v} -> ${3:transformation})
+    .orElse(${4:default});
+$0
+endsnippet
+
+# ============================================================================
+# DATABASE QUERIES
+# ============================================================================
+
+snippet jpqlquery "JPQL Query"
+@Query("SELECT ${1:e} FROM ${2:Entity} $1 WHERE ${3:condition}")
+${4:List<$2>} ${5:findBy}(${6:@Param("param") Type param});
+$0
+endsnippet
+
+snippet nativequery "Native SQL Query"
+@Query(value = "${1:SELECT * FROM table WHERE condition}", nativeQuery = true)
+${2:List<Entity>} ${3:findBy}(${4:@Param("param") Type param});
+$0
+endsnippet
+
+# ============================================================================
+# DOCKER & KUBERNETES
+# ============================================================================
+
+snippet dockerfile "Spring Boot Dockerfile"
+FROM openjdk:${1:17}-jdk-slim AS build
+WORKDIR /app
+COPY pom.xml .
+COPY src ./src
+RUN ./mvnw package -DskipTests
+
+FROM openjdk:$1-jre-slim
+WORKDIR /app
+COPY --from=build /app/target/*.jar app.jar
+EXPOSE ${2:8080}
+ENTRYPOINT ["java", "-jar", "app.jar"]
+$0
+endsnippet
+
+snippet k8sdeployment "Kubernetes Deployment"
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ${1:app-name}
+  labels:
+    app: $1
+spec:
+  replicas: ${2:3}
+  selector:
+    matchLabels:
+      app: $1
+  template:
+    metadata:
+      labels:
+        app: $1
+    spec:
+      containers:
+      - name: $1
+        image: ${3:image:tag}
+        ports:
+        - containerPort: ${4:8080}
+        env:
+        - name: ${5:ENV_VAR}
+          value: "${6:value}"
+$0
+endsnippet
+
+snippet k8sservice "Kubernetes Service"
+apiVersion: v1
+kind: Service
+metadata:
+  name: ${1:app-name}-service
+spec:
+  selector:
+    app: ${2:app-name}
+  ports:
+  - protocol: TCP
+    port: ${3:80}
+    targetPort: ${4:8080}
+  type: ${5:LoadBalancer}
+$0
+endsnippet
+
+# ============================================================================
+# API DOCUMENTATION
+# ============================================================================
+
+snippet swagger "Swagger API Documentation"
+@Operation(summary = "${1:Operation summary}")
+@ApiResponses(value = {
+    @ApiResponse(responseCode = "200", description = "${2:Success}"),
+    @ApiResponse(responseCode = "400", description = "${3:Bad request}"),
+    @ApiResponse(responseCode = "404", description = "${4:Not found}")
+})
+$0
+endsnippet
+
+snippet apiparam "API Parameter Documentation"
+@Parameter(
+    description = "${1:Parameter description}",
+    required = ${2:true},
+    example = "${3:example value}"
+)
+$0
+endsnippet

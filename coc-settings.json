@@ -1,0 +1,52 @@
+{
+  "languageserver": {
+    "java": {
+      "command": "jdtls",
+      "args": ["-data", "/tmp/jdtls-workspace"],
+      "filetypes": ["java"],
+      "rootPatterns": ["pom.xml", "build.gradle", ".git"],
+      "settings": {
+        "java": {
+          "signatureHelp.enabled": true,
+          "contentProvider.preferred": "fernflower",
+          "completion.enabled": true,
+          "completion.guessMethodArguments": true,
+          "completion.favoriteStaticMembers": [
+            "org.junit.Assert.*",
+            "org.junit.jupiter.api.Assertions.*",
+            "org.mockito.Mockito.*"
+          ],
+          "sources.organizeImports.starThreshold": 5,
+          "sources.organizeImports.staticStarThreshold": 3,
+          "format.enabled": true,
+          "format.settings.url": "~/.config/coc/google-java-format.xml",
+          "maven.downloadSources": true,
+          "implementationsCodeLens.enabled": true,
+          "referencesCodeLens.enabled": true
+        }
+      }
+    }
+  },
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.errorSign": "✘",
+  "diagnostic.warningSign": "⚠",
+  "diagnostic.infoSign": "ℹ",
+  "diagnostic.hintSign": "➤",
+  "suggest.enablePreview": true,
+  "suggest.noselect": false,
+  "suggest.snippetIndicator": " ►",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "java",
+    "json",
+    "yaml",
+    "xml"
+  ],
+  "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication",
+  "java.errors.incompleteClasspath.severity": "warning",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.trace.server": "verbose",
+  "yaml.schemas": {
+    "kubernetes": ["/*.yaml", "/*.yml"],
+    "https://json.schemastore.org/github-workflow.json": "/.github/workflows/*"
+  }
+}
