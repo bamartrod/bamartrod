@@ -1,7 +1,7 @@
 # Ruta de aprendizaje para Java
 Usualmente se realiza una ruta de aprendizaje completa:
 - [Computer Science](https://roadmap.sh/computer-science) y [Java](https://roadmap.sh/java?_gl=1*1e70xwr*_up*MQ..*_ga*NjI1ODg3NTkuMTc3MDc2MTc2Ng..*_ga_EZHDT2S2LF*czE3NzA3NjE3NjQkbzEkZzAkdDE3NzA3NjE3NjQkajYwJGwwJGgw) se van aprendiendo mutuamente
-- [Backend Development](https://roadmap.sh/backend?_gl=1*1e70xwr*_up*MQ..*_ga*NjI1ODg3NTkuMTc3MDc2MTc2Ng..*_ga_EZHDT2S2LF*czE3NzA3NjE3NjQkbzEkZzAkdDE3NzA3NjE3NjQkajYwJGwwJGgw) y [Spring + Spring Boot](https://roadmap.sh/spring-boot)
+- [Backend Development](https://roadmap.sh/backend?_gl=1*1e70xwr*_up*MQ..*_ga*NjI1ODg3NTkuMTc3MDc2MTc2Ng..*_ga_EZHDT2S2LF*czE3NzA3NjE3NjQkbzEkZzAkdDE3NzA3NjE3NjQkajYwJGwwJGgw) y [Spring + Spring Boot](https://roadmap.sh/spring-boot) se van aprendiendo mutuamente
 
 Pero en esta ocasión se redujo la ruta de aprendizaje para conseguir trabajo de la forma más rápida posible como: 
 ### Java Testing Developer
