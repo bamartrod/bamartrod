@@ -1,10 +1,11 @@
 # Ruta de aprendizaje para Java
 Usualmente se realiza una ruta de aprendizaje completa:
-- [Computer Science](https://roadmap.sh/computer-science) y [Java](https://roadmap.sh/java?_gl=1*1e70xwr*_up*MQ..*_ga*NjI1ODg3NTkuMTc3MDc2MTc2Ng..*_ga_EZHDT2S2LF*czE3NzA3NjE3NjQkbzEkZzAkdDE3NzA3NjE3NjQkajYwJGwwJGgw) se van aprendiendo mutuamente
-- [Backend Development](https://roadmap.sh/backend?_gl=1*1e70xwr*_up*MQ..*_ga*NjI1ODg3NTkuMTc3MDc2MTc2Ng..*_ga_EZHDT2S2LF*czE3NzA3NjE3NjQkbzEkZzAkdDE3NzA3NjE3NjQkajYwJGwwJGgw) y [Spring + Spring Boot](https://roadmap.sh/spring-boot) se van aprendiendo mutuamente
+1. [Computer Science](https://roadmap.sh/computer-science) y [Java](https://roadmap.sh/java?_gl=1*1e70xwr*_up*MQ..*_ga*NjI1ODg3NTkuMTc3MDc2MTc2Ng..*_ga_EZHDT2S2LF*czE3NzA3NjE3NjQkbzEkZzAkdDE3NzA3NjE3NjQkajYwJGwwJGgw)
+2. [Backend Development](https://roadmap.sh/backend?_gl=1*1e70xwr*_up*MQ..*_ga*NjI1ODg3NTkuMTc3MDc2MTc2Ng..*_ga_EZHDT2S2LF*czE3NzA3NjE3NjQkbzEkZzAkdDE3NzA3NjE3NjQkajYwJGwwJGgw), [Spring + Spring Boot](https://roadmap.sh/spring-boot) y [SQL](https://roadmap.sh/sql)
+3. [Git & Github](https://roadmap.sh/git-github) [Systems Administration & DevOps](https://roadmap.sh/devops) y Cloud Computing (depende del proveedor, ejemplo: [AWS](https://roadmap.sh/aws)) 
 
 Pero en esta ocasión se redujo la ruta de aprendizaje para conseguir trabajo de la forma más rápida posible como: 
-### Java Testing Developer
+### Java Testing Developer ó (QA Automation Engineer/SDET Software Development Engineer in Test) -> techo en salario $4 millones
 ##### 1.	¿Qué es Java y cómo funciona Java?
 ##### 2.	Programación orientada a objetos
 ##### 3.	Sintaxis esencial de Java
@@ -32,3 +33,4 @@ Pero en esta ocasión se redujo la ruta de aprendizaje para conseguir trabajo de
 ##### 7.	Métricas de aseguramiento de calidad
 - Coverage
 - Edge cases
+##### 8. Git & Github
