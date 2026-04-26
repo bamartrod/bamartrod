@@ -1,5 +1,5 @@
 # About me
-Certified Bachelor's degree in Systems Engineering and nearly 4 years of professional experience as a software engineer, and 2 years of voluntary work as a developer, specializing in back-end development with Java and Spring, I excel at building reliable, scalable, and secure software solutions. 
+Certified Bachelor's degree in Systems Engineering and +5 years of professional experience as a software engineer, and 2 years of voluntary work as a developer, specializing in back-end development with Java and Spring, I excel at building reliable, scalable, and secure software solutions. 
 
 My expertise in solving complex technical challenges is complemented by my ability to communicate effectively with clients and stakeholders, ensuring alignment between business needs and technical solutions. I am also deeply committed to continuous learning, always seeking to enhance my technical skills and expand my knowledge of best development practices. 
 
