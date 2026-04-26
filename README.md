@@ -1,9 +1,14 @@
 # About me
-Certified Bachelor's degree in Systems Engineering and +5 years of professional experience as a software engineer, and 2 years of voluntary work as a developer, specializing in back-end development with Java and Spring, I excel at building reliable, scalable, and secure software solutions. 
+I architect the backend systems that move money securely and at scale.
 
-My expertise in solving complex technical challenges is complemented by my ability to communicate effectively with clients and stakeholders, ensuring alignment between business needs and technical solutions. I am also deeply committed to continuous learning, always seeking to enhance my technical skills and expand my knowledge of best development practices. 
+Over the past 5 years at NTT DATA, I've delivered production-grade Java/Spring Boot 
+microservices for Colombia's most critical financial institutions — including a 
+real-time payment interoperability system (BRE-B) reviewed and audited by Colombia's 
+Central Bank, batch processing pipelines for Scotiabank Colpatria, and AWS Lambda 
+integrations for Banco de Occidente and Banco Popular.
 
-Throughout my roles, I have been a technical contributor and a key player in aligning technical solutions with business goals. At NTT DATA, I worked closely with clients such as Scotiabank, Colpatria, and Banco de Bogotá, ensuring that our software solutions addressed their core business needs while enhancing system efficiency and security.
+Ranked in the top 8% nationally in Software Design (Colombia's mandatory Professional 
+Performance Exam — required by law for engineering graduates).
 
 # Projects
 - Scotiabank Colpatria (NTT DATA client) - MURIC - Principal Backend Developer: This project was part of the implementation of the Módulo Único de Reporte de Información de la Cartera de Crédito (MURIC), a regulatory initiative from the Superintendencia Financiera de Colombia, aimed at strengthening credit portfolio reporting, reducing operational costs, and ensuring accurate and timely data delivery for regulatory compliance. My role focused on designing and developing Java-based automated processes to support large-scale data processing and reporting, ensuring efficiency, reliability, and compliance with financial regulatory standards.
