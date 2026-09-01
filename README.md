@@ -50,6 +50,6 @@ Hands-on experience across **enterprise core migration, distributed systems, mic
 ## EDUCATION & CERTIFICATIONS
 
 - **B.Sc. Systems Engineering — UNAD** · 2017–2025
-- **AZ-305 — Azure Solutions Architect Expert** · 2023
+- **AZ-305 — Azure Solutions Architect Expert - Udemy** · 2023
 - **Azure Fundamentals — Microsoft** · 2022
 - **English — B2 Upper Intermediate** · EF SET, 2024
