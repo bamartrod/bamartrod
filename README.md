@@ -40,20 +40,20 @@ Hands-on experience across **enterprise core migration, distributed systems, mic
 
 ## ARCHITECTURE & TECHNOLOGY
 
-**Architecture:** Cloud Architecture · Enterprise Architecture · Core Modernization · Solution Architecture · Distributed Systems · Microservices · Serverless · API-First · Clean Architecture · DDD · SOLID
+- **Architecture:** Cloud Architecture · Enterprise Architecture · Core Modernization · Solution Architecture · Distributed Systems · Microservices · Serverless · API-First · Clean Architecture · DDD · SOLID
 
-**Infrastructure:** Terraform · Infrastructure as Code · Kubernetes · Docker · AKS · AWS Lambda · API Gateway · Azure API Management · IAM
+- **Infrastructure:** Terraform · Infrastructure as Code · Kubernetes · Docker · AKS · AWS Lambda · API Gateway · Azure API Management · IAM
 
-**Development & Integration:** Java · Spring Boot · REST · SOAP · OpenAPI · SQL · Oracle · MongoDB
+- **Development & Integration:** Java · Spring Boot · REST · SOAP · OpenAPI · SQL · Oracle · MongoDB
 
-**DevOps:** Git · Jenkins · GitHub Actions · SonarQube · Fortify
+- **DevOps:** Git · Jenkins · GitHub Actions · SonarQube · Fortify
 
 ---
 
 ## EDUCATION & CERTIFICATIONS
 
-**B.Sc. Systems Engineering — UNAD** · 2017–2025
+- **B.Sc. Systems Engineering — UNAD** · 2017–2025
 
-**AZ-305 — Azure Solutions Architect Expert** · 2023
-**Azure Fundamentals — Microsoft** · 2022
-**English — B2 Upper Intermediate** · EF SET, 2024
+- **AZ-305 — Azure Solutions Architect Expert** · 2023
+- **Azure Fundamentals — Microsoft** · 2022
+- **English — B2 Upper Intermediate** · EF SET, 2024
