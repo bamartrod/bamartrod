@@ -1,42 +1,59 @@
-# About me
-I architect the backend systems that move money securely and at scale.
+# CLOUD & SOFTWARE ARCHITECT | CORE MODERNIZATION | CLOUD-NATIVE | IaC
 
-Over the past 5 years at NTT DATA, I've delivered production-grade Java/Spring Boot 
-microservices for Colombia's most critical financial institutions — including a 
-real-time payment interoperability system (BRE-B) reviewed and audited by Colombia's 
-Central Bank, batch processing pipelines for Scotiabank Colpatria, and AWS Lambda 
-integrations for Banco de Occidente and Banco Popular.
+**Bogotá, Colombia · Remote**
+linkedin.com/in/bamartrod · github.com/bamartrod · [bamartrod@gmail.com](mailto:bamartrod@gmail.com)
 
-Ranked in the top 8% nationally in Software Design (Colombia's mandatory Professional 
-Performance Exam — required by law for engineering graduates).
+---
 
-# Projects
-- Scotiabank Colpatria (NTT DATA client) - MURIC - Principal Backend Developer: This project was part of the implementation of the Módulo Único de Reporte de Información de la Cartera de Crédito (MURIC), a regulatory initiative from the Superintendencia Financiera de Colombia, aimed at strengthening credit portfolio reporting, reducing operational costs, and ensuring accurate and timely data delivery for regulatory compliance. My role focused on designing and developing Java-based automated processes to support large-scale data processing and reporting, ensuring efficiency, reliability, and compliance with financial regulatory standards.
-- Scotiabank Colpatria (NTT DATA Client) - Bre-B Federate Directory integrations: Microservice development to ensure secure transactions for interoperability of immediate low-value payment systems according to Colombia’s central bank requirements.
-- Scotiabank Colpatria (NTT DATA Client) - Credit card payments core: Microservice development to credit card payment systems. Worked closely with the client to ensure technical and business alignment, delivering secure and efficient services.
-- Banco de Occidente (NTT DATA Client) - Bizagi app integration: Created Azure Lambda functions to enable seamless communication between Bizagi and core banking systems. Enhanced data flow and optimized backend services.
-- Banco de Bogotá (NTT DATA Client) - Bank Core Development: Microservice development to communicate with the database’s stored procedures for core banking systems
-- Banco Popular (NTT DATA Client) - BFF Development for mobile application: Microservice development to deliver facial recognition system files for advanced cloud-based biometric security solutions.
-- Porvenir (NTT DATA Client) - BFF Development for mobile application: Developed microservices with Java Spring Boot, managing financial operations like contributions and investments. Delivered secure API integrations, aligned with the client's technical and business needs.
+## PROFILE
 
-# Skills
-### Technical:
-- Backend development: Java & Spring Framework (Spring Boot)
-- HTTP Handling: REST, JSON, XML, SOAP
-- Database System: SQL (MySQL, OracleSQL), NoSQL (MongoDB)
-- Dev tools: Git (Github, Bitbucket & Gitlab), Documentation diagrams (Sequence, Flow & Classes)
-- DevOps Tools: Docker, Kubernetes, SonarQube, Fortify, Jenkins
-- Testing & Documentation: JUnit, MockWebServer, H2, Swagger, Postman, WSDL
-- Cloud Platforms: Azure (Kubernetes & API Management) & Serverless development
+Software Engineer and Systems Engineer focused on **Cloud & Software Architecture and Enterprise Core Modernization**, with 6+ years of engineering experience. Experienced in designing and delivering **cloud-native architectures, Infrastructure as Code, and modernization strategies for enterprise systems**, aligning business capabilities and core-business requirements with scalable, secure, maintainable, and cost-efficient technology solutions.
 
-### Development practices
-- Test-driven development
-- Clean Architecture & Domain-driven development
-- SOLID principles & Design patterns
-- Advanced data structures & Algorithms
+Hands-on experience across **enterprise core migration, distributed systems, microservices, serverless, Kubernetes, Azure, AWS, and Terraform**, combining architectural design with implementation-level expertise.
 
-### Soft Skills
-- Client communication & technical alignment
-- Effective team collaboration & knowledge sharing
-- Problem-solving & critical thinking
-- Adaptability & continuous learning
+---
+
+## ARCHITECTURE EXPERIENCE
+
+### NTT DATA — Software Engineer / Cloud Architecture
+
+**Nov 2021 – Present · Remote**
+
+* Designed and delivered **enterprise modernization and cloud-native architecture solutions**, supporting the evolution and migration of business-critical core systems toward modern distributed architectures.
+* Participated in the **end-to-end architecture lifecycle**: business discovery, scope definition, core-business analysis, architectural design, technology evaluation, infrastructure implementation, and solution delivery.
+* Translated business capabilities and legacy/core-system requirements into **target architectures, service boundaries, integration strategies, and migration-oriented technical solutions**.
+* Designed and implemented **Infrastructure as Code using Terraform**, enabling reproducible, automated, and maintainable cloud infrastructure.
+* Evaluated architectural alternatives considering **business objectives, scalability, security, operational complexity, maintainability, and infrastructure cost**.
+* Designed cloud architectures integrating **Azure/AWS, Kubernetes, serverless, APIs, containers, networking, security, and enterprise systems**.
+* Worked with financial-sector clients including **Scotiabank Colpatria and Banco de Bogotá**, aligning modernization initiatives and technical solutions with business objectives.
+* Led high-volume payment-system integration and delivered cloud-native banking services using **AWS Lambda and Azure Kubernetes Service**.
+* Applied **API-first architecture with OpenAPI Generator**, improving alignment between business requirements, architectural contracts, and implementation.
+
+### INDRA — Software Engineer
+
+**May 2021 – Nov 2021 · Remote**
+
+* Supported enterprise Java/Oracle systems, integrations, deployments, and production environments.
+* Improved incident-resolution time by **30%** through structured troubleshooting and technical documentation.
+
+---
+
+## ARCHITECTURE & TECHNOLOGY
+
+**Architecture:** Cloud Architecture · Enterprise Architecture · Core Modernization · Solution Architecture · Distributed Systems · Microservices · Serverless · API-First · Clean Architecture · DDD · SOLID
+
+**Infrastructure:** Terraform · Infrastructure as Code · Kubernetes · Docker · AKS · AWS Lambda · API Gateway · Azure API Management · IAM
+
+**Development & Integration:** Java · Spring Boot · REST · SOAP · OpenAPI · SQL · Oracle · MongoDB
+
+**DevOps:** Git · Jenkins · GitHub Actions · SonarQube · Fortify
+
+---
+
+## EDUCATION & CERTIFICATIONS
+
+**B.Sc. Systems Engineering — UNAD** · 2017–2025
+
+**AZ-305 — Azure Solutions Architect Expert** · 2023
+**Azure Fundamentals — Microsoft** · 2022
+**English — B2 Upper Intermediate** · EF SET, 2024
