@@ -1,25 +1,52 @@
 # Brandon Martínez
 
-### Software Architect · Enterprise Modernization · Cloud-Native Architecture
+### Software Architect · Enterprise Core Modernization · Cloud-Native
 
-I design **software and cloud architectures for complex enterprise systems**, with a focus on **core modernization, business alignment, and architecture-driven delivery**.
+I design and deliver **cloud-native architectures for enterprise systems**, translating business requirements into scalable, secure, maintainable, and cost-efficient solutions.
 
-My work spans the complete path from **understanding the business and defining scope, to proposing architectural solutions, evaluating trade-offs, and delivering the target architecture through cloud infrastructure and implementation**.
+My experience covers **architecture definition, modernization, enterprise integration, Infrastructure as Code, and solution delivery**.
 
-### Architecture
+## Architecture Projects
 
-* **Enterprise Core Modernization** — Transform business-critical and legacy systems into modern, evolvable architectures.
-* **Solution Architecture** — Translate business capabilities, requirements, and constraints into concrete architectural solutions.
-* **Cloud-Native Architecture** — Design scalable, secure, and cost-efficient solutions across AWS and Azure.
-* **Architecture Decision-Making** — Evaluate alternatives across business value, complexity, scalability, security, maintainability, and cost.
-* **Infrastructure as Code** — Materialize architectural decisions through Terraform and reproducible cloud infrastructure.
-* **Architecture Communication** — Model and document systems so architecture can be understood by both engineers and stakeholders.
+### 🏦 Porvenir — Mobile-to-Core Middleware
 
+**Role:** Solution Architecture
 
-**Enterprise & Financial Systems**
-Architecture and delivery of solutions involving **core-system modernization, enterprise integration, high-volume payment systems, distributed services, and cloud transformation**.
+Designed an **Azure cloud-native microservices architecture** connecting a mobile application with the company's native core.
 
-### Personal tooling
+`API Management` · `Ingress` · `AKS` · `Containers` · `Key Vault` · `Oracle` · `Observability`
 
-**class-diagrammer-java**
-A developer tool that **extracts the software architecture of existing Java projects**, making complex systems easier to understand and enabling more precise **AI-assisted analysis and onboarding**.
+### 🏦 Scotiabank — Core Modernization
+
+**Role:** Solution Architecture
+
+Designed a **GCP microservices architecture** to replace AS/400 capabilities while integrating with the enterprise core through distributed computing.
+
+`GCP` · `Microservices` · `Distributed Computing` · `Core Modernization`
+
+### 🏦 Scotiabank — Regulatory Data Platform
+
+**Role:** Solution Architecture
+
+Designed a dedicated **GCP distributed-processing architecture** for regulatory credit-movement data, from databases to cloud storage through SFTP and segmented 100 MB file processing.
+
+`GCP` · `Distributed Computing` · `SFTP` · `Cloud Storage` · `Microservices`
+
+### 🏥 MAPFRE — Cloud ETL
+
+**Role:** Solution Architecture
+
+Designed a modern **AWS-based ETL architecture** using managed orchestration, processing jobs, Lambda, IAM, and DynamoDB.
+
+`AWS` · `ETL` · `Lambda` · `IAM` · `DynamoDB`
+
+## Architecture Focus
+
+**Enterprise Core Modernization** · **Cloud-Native** · **Microservices** · **Distributed Systems** · **Solution Architecture** · **Infrastructure as Code** · **Terraform** · **AWS** · **Azure** · **GCP**
+
+### Featured Project
+
+**ClassDiagrammer-Java**
+Extracts the software architecture of existing Java projects to enable deeper system understanding and **AI-assisted onboarding**.
+
+> **Understand the business. Design the architecture. Deliver the solution.**
