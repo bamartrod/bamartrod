@@ -1,6 +1,4 @@
-# Brandon Martínez
-
-### Software Architect · Enterprise Core Modernization · Cloud-Native
+# Software Architect · Enterprise Core Modernization · Cloud-Native
 
 I design and deliver **cloud-native architectures for enterprise systems**, translating business requirements into scalable, secure, maintainable, and cost-efficient solutions.
 
