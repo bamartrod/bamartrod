@@ -1,55 +1,25 @@
-## CLOUD & SOFTWARE ARCHITECT | CORE MODERNIZATION | CLOUD-NATIVE | IaC
+# Brandon Martínez
 
-**Bogotá, Colombia · Remote**
-linkedin.com/in/bamartrod · github.com/bamartrod · [bamartrod@gmail.com](mailto:bamartrod@gmail.com)
+### Software Architect · Enterprise Modernization · Cloud-Native Architecture
 
----
+I design **software and cloud architectures for complex enterprise systems**, with a focus on **core modernization, business alignment, and architecture-driven delivery**.
 
-## PROFILE
+My work spans the complete path from **understanding the business and defining scope, to proposing architectural solutions, evaluating trade-offs, and delivering the target architecture through cloud infrastructure and implementation**.
 
-Software Engineer and Systems Engineer focused on **Cloud & Software Architecture and Enterprise Core Modernization**, with 6+ years of engineering experience. Experienced in designing and delivering **cloud-native architectures, Infrastructure as Code, and modernization strategies for enterprise systems**, aligning business capabilities and core-business requirements with scalable, secure, maintainable, and cost-efficient technology solutions.
+### Architecture
 
-Hands-on experience across **enterprise core migration, distributed systems, microservices, serverless, Kubernetes, Azure, AWS, and Terraform**, combining architectural design with implementation-level expertise.
+* **Enterprise Core Modernization** — Transform business-critical and legacy systems into modern, evolvable architectures.
+* **Solution Architecture** — Translate business capabilities, requirements, and constraints into concrete architectural solutions.
+* **Cloud-Native Architecture** — Design scalable, secure, and cost-efficient solutions across AWS and Azure.
+* **Architecture Decision-Making** — Evaluate alternatives across business value, complexity, scalability, security, maintainability, and cost.
+* **Infrastructure as Code** — Materialize architectural decisions through Terraform and reproducible cloud infrastructure.
+* **Architecture Communication** — Model and document systems so architecture can be understood by both engineers and stakeholders.
 
----
 
-## ARCHITECTURE EXPERIENCE
+**Enterprise & Financial Systems**
+Architecture and delivery of solutions involving **core-system modernization, enterprise integration, high-volume payment systems, distributed services, and cloud transformation**.
 
-### NTT DATA — Software Engineer / Cloud Architecture
+### Personal tooling
 
-**Nov 2021 – Present · Remote**
-
-* Designed and delivered **enterprise modernization and cloud-native architecture solutions**, supporting the evolution and migration of business-critical core systems toward modern distributed architectures.
-* Participated in the **end-to-end architecture lifecycle**: business discovery, scope definition, core-business analysis, architectural design, technology evaluation, infrastructure implementation, and solution delivery.
-* Translated business capabilities and legacy/core-system requirements into **target architectures, service boundaries, integration strategies, and migration-oriented technical solutions**.
-* Designed and implemented **Infrastructure as Code using Terraform**, enabling reproducible, automated, and maintainable cloud infrastructure.
-* Evaluated architectural alternatives considering **business objectives, scalability, security, operational complexity, maintainability, and infrastructure cost**.
-* Designed cloud architectures integrating **Azure/AWS, Kubernetes, serverless, APIs, containers, networking, security, and enterprise systems**.
-* Worked with financial-sector clients including **Scotiabank Colpatria and Banco de Bogotá**, aligning modernization initiatives and technical solutions with business objectives.
-* Led high-volume payment-system integration and delivered cloud-native banking services using **AWS Lambda and Azure Kubernetes Service**.
-* Applied **API-first architecture with OpenAPI Generator**, improving alignment between business requirements, architectural contracts, and implementation.
-
-### INDRA — Software Engineer
-
-**May 2021 – Nov 2021 · Remote**
-
-* Supported enterprise Java/Oracle systems, integrations, deployments, and production environments.
-* Improved incident-resolution time by **30%** through structured troubleshooting and technical documentation.
-
----
-
-## ARCHITECTURE & TECHNOLOGY
-
-- **Architecture:** Cloud Architecture · Enterprise Architecture · Core Modernization · Solution Architecture · Distributed Systems · Microservices · Serverless · API-First · Clean Architecture · DDD · SOLID
-- **Infrastructure:** Terraform · Infrastructure as Code · Kubernetes · Docker · AKS · AWS Lambda · API Gateway · Azure API Management · IAM
-- **Development & Integration:** Java · Spring Boot · REST · SOAP · OpenAPI · SQL · Oracle · MongoDB
-- **DevOps:** Git · Jenkins · GitHub Actions · SonarQube · Fortify
-
----
-
-## EDUCATION & CERTIFICATIONS
-
-- **B.Sc. Systems Engineering — UNAD** · 2017–2025
-- **AZ-305 — Azure Solutions Architect Expert - Udemy** · 2023
-- **Azure Fundamentals — Microsoft** · 2022
-- **English — B2 Upper Intermediate** · EF SET, 2024
+**class-diagrammer-java**
+A developer tool that **extracts the software architecture of existing Java projects**, making complex systems easier to understand and enabling more precise **AI-assisted analysis and onboarding**.
