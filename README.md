@@ -45,5 +45,3 @@ Designed an **Azure cloud-native microservices architecture** connecting a mobil
 
 **ClassDiagrammer-Java**
 Extracts the software architecture of existing Java projects to enable deeper system understanding and **AI-assisted onboarding**.
-
-> **Understand the business. Design the architecture. Deliver the solution.**
