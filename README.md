@@ -1,4 +1,4 @@
-# Software Architect · Enterprise Core Modernization · Cloud-Native
+## Software Architect · Enterprise Core Modernization · Cloud-Native
 
 I design and deliver **cloud-native architectures for enterprise systems**, translating business requirements into scalable, secure, maintainable, and cost-efficient solutions.
 
@@ -34,9 +34,7 @@ Designed a dedicated **GCP distributed-processing architecture** for regulatory 
 
 **Role:** Solution Architecture
 
-Designed a modern **AWS-based ETL architecture** using managed orchestration, processing jobs, Lambda, IAM, and DynamoDB.
-
-`AWS` · `ETL` · `Lambda` · `IAM` · `DynamoDB`
+Designed a modern **AWS ETL architecture** using **Glue Jobs, Lambda, IAM, DynamoDB, and orchestration services** for automated and scalable data processing.
 
 ## Architecture Focus
 
