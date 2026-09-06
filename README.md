@@ -6,15 +6,8 @@ My experience covers **architecture definition, modernization, enterprise integr
 
 ## Architecture Projects
 
-### 🏦 Porvenir — Mobile-to-Core Middleware
 
-**Role:** Solution Architecture
-
-Designed an **Azure cloud-native microservices architecture** connecting a mobile application with the company's native core.
-
-`API Management` · `Ingress` · `AKS` · `Containers` · `Key Vault` · `Oracle` · `Observability`
-
-### 🏦 Scotiabank — Core Modernization
+### Scotiabank — Core Modernization
 
 **Role:** Solution Architecture
 
@@ -22,7 +15,7 @@ Designed a **GCP microservices architecture** to replace AS/400 capabilities whi
 
 `GCP` · `Microservices` · `Distributed Computing` · `Core Modernization`
 
-### 🏦 Scotiabank — Regulatory Data Platform
+### Scotiabank — Regulatory Data Platform
 
 **Role:** Solution Architecture
 
@@ -30,11 +23,19 @@ Designed a dedicated **GCP distributed-processing architecture** for regulatory 
 
 `GCP` · `Distributed Computing` · `SFTP` · `Cloud Storage` · `Microservices`
 
-### 🏥 MAPFRE — Cloud ETL
+### MAPFRE — Cloud ETL
 
 **Role:** Solution Architecture
 
 Designed a modern **AWS ETL architecture** using **Glue Jobs, Lambda, IAM, DynamoDB, and orchestration services** for automated and scalable data processing.
+
+### Porvenir — Mobile-to-Core Middleware
+
+**Role:** Solution Architecture
+
+Designed an **Azure cloud-native microservices architecture** connecting a mobile application with the company's native core.
+
+`API Management` · `Ingress` · `AKS` · `Containers` · `Key Vault` · `Oracle` · `Observability`
 
 ## Architecture Focus
 
